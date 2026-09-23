@@ -25,3 +25,9 @@ I will use AI as a development assistant while reviewing, testing, and understan
 ## Project Status
 
 Currently in setup and development.
+
+## Current Focus
+
+- Setting up the frontend development environment
+- Practicing Git and GitHub
+- Learning AI-assisted development
