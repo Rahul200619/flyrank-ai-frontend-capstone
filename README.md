@@ -8,6 +8,10 @@ This is my capstone project for the FlyRank AI internship.
 
 The goal of this project is to build a frontend application while practicing AI-assisted development.
 
+## Project Description
+
+This project is a frontend application being developed as part of my FlyRank AI internship. It will be used to practice building a frontend project while using AI as a development assistant.
+
 ## Tech Stack
 
 - HTML
